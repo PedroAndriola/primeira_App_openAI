@@ -1,4 +1,4 @@
-# OpenAI: Curso 1
+# OpenAI: chat Ecommerce
 
 ## ⚙️ Configuração do Ambiente
 
